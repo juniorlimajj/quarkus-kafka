@@ -1,0 +1,3 @@
+controller/PriceController.class
+consumer/PriceConverter.class
+producer/PriceGenerator.class
